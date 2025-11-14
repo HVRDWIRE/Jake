@@ -3,7 +3,7 @@ name: Generate Sitemap
 on:
   push:
     branches:
-      - main     # change to gh-pages if needed
+      - main     # is in main folder but change to gh-pages if needed
 
 jobs:
   build:
